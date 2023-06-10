@@ -1,1 +1,1 @@
-# Sales_prediction_Linear-Regression_Modul
+# Sales_prediction_Linear-Regression_Module
